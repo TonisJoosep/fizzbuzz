@@ -1,7 +1,3 @@
-
-#  the task will be to get the program to print fizz if the number divides by 3,
-#  print 5 if it divides by 5 and fizzbuzz to print when it divides by both
-
 number = int(input("Please enter a number:\n"))
 if number % 15 == 0:
     print("fizzbuzz")
