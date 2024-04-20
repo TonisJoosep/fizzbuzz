@@ -1,0 +1,1 @@
+The task will be to get the program to print fizz if the number divides by 3, print 5 if it divides by 5 and fizzbuzz to print if it divides by both. If it can be divided by neither let the user know.
